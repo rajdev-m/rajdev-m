@@ -1,74 +1,73 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Debraj</h1>
+<h3 align="center">Discord Bot Developer · Automation · Community Tooling</h3>
 
-# Debraj !!!
-
-### Discord Bot Developer · Server Architect · Automation
-
-**Building elegant systems. Engineering smarter communities.**
-
-[GitHub](https://github.com/rajdev-m) ·
-[Discord](https://discord.com/users/1536580616752070686) ·
-[Instagram](https://www.instagram.com/deb.raj_0007/)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdev-m&label=Profile%20views&color=5865F2&style=flat" alt="rajdev-m" />
+</p>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-Hi, I'm **Debraj** (`@rajdev-m`). I build Discord bots, server tools, and automation that help online communities run smoothly.
+- 🔭 Currently building and polishing Discord bots, with a focus on reliability and clean structure
+- 🌱 Learning more about deployment, containers, and serverless tools
+- 💬 Ask me about **Discord bots, discord.py, and automation**
+- 🛠️ I build slash commands, moderation tools, music bots, temporary voice channels, and server utilities
+- 📫 Reach me on [Discord](https://discord.com/users/1536580616752070686)
+- ⚡ Fun fact: *(add one line here, or delete this bullet)*
 
-- 🤖 Discord bot development
-- ⚙️ Automation and integrations
-- 🛡️ Server setup and community tooling
-- 🚀 Reliable, maintainable software
+---
 
-> **Build with purpose. Ship with precision.**
+### 🌐 Connect With Me
 
-## What I Build
+<p align="left">
+  <a href="https://github.com/rajdev-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rajdev-m" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1536580616752070686" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="discord" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/deb.raj_0007/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deb.raj_0007" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+**Discord:** discord.py · **Hosting/Backend:** Docker, Cloudflare Workers, D1 · **Other:** JSON, REST APIs
+
+---
+
+### 🧩 What I Build
 
 | Area | Focus |
 |---|---|
-| **Discord Bots** | Commands, moderation, music features, and server utilities |
+| **Discord Bots** | Slash commands, moderation, music, temporary voice channels, AI-assisted replies |
 | **Automation** | Integrations, event handling, and streamlined workflows |
-| **Server Systems** | Roles, permissions, moderation setup, and community tooling |
+| **Server Systems** | Roles, permissions, and community tooling |
 | **Developer Tools** | Practical scripts and utilities for everyday tasks |
-
-## Tech Stack
-
-*Keep this list aligned with the technologies you actively use.*
-
-- **Languages:** Python
-- **Discord:** discord.py
-- **Tools:** Git, GitHub, JSON
-
-## Featured Projects
-
-Browse my repositories for current projects:
-
-- [All repositories](https://github.com/rajdev-m?tab=repositories)
-
-Add direct links here as your public projects are ready to showcase.
-
-## Current Focus
-
-- Improving Discord bot reliability and responsiveness
-- Building useful automation and integrations
-- Writing maintainable, well-documented code
-- Learning new tools and development practices
-
-## Connect With Me
-
-- **GitHub:** [@rajdev-m](https://github.com/rajdev-m)
-- **Discord:** [Open my Discord profile](https://discord.com/users/1536580616752070686)
-- **Instagram:** [@deb.raj_0007](https://www.instagram.com/deb.raj_0007/)
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-**BUILD · AUTOMATE · DEPLOY**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajdev-m&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdev-m&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-*Designed with precision by Debraj.*
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajdev-m&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-</div>
+---
+
+### 📌 Projects
+
+Public projects are coming soon. Browse my [repositories](https://github.com/rajdev-m?tab=repositories) for updates.
+
+<p align="center"><sub>Build · Automate · Deploy</sub></p>
